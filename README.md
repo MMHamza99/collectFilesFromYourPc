@@ -11,5 +11,5 @@ I like to code Python programs which perform various duties. I like to keep it s
 
 
 # libraries :
-glob => to extract all files and folders we need "pip install glob" \n
+glob => to extract all files and folders we need "pip install glob" 
 shutil => to copy files from old folder to new target folder "pip install shutil"
